@@ -1,0 +1,15 @@
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\obj\Debug\net6.0\Zadasha7.csproj.AssemblyReference.cache
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\obj\Debug\net6.0\Zadasha7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\obj\Debug\net6.0\Zadasha7.AssemblyInfoInputs.cache
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\obj\Debug\net6.0\Zadasha7.AssemblyInfo.cs
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\obj\Debug\net6.0\Zadasha7.csproj.CoreCompileInputs.cache
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\bin\Debug\net6.0\Zadasha7.exe
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\bin\Debug\net6.0\Zadasha7.deps.json
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\bin\Debug\net6.0\Zadasha7.runtimeconfig.json
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\bin\Debug\net6.0\Zadasha7.dll
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\bin\Debug\net6.0\Zadasha7.pdb
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\obj\Debug\net6.0\Zadasha7.dll
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\obj\Debug\net6.0\refint\Zadasha7.dll
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\obj\Debug\net6.0\Zadasha7.pdb
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\obj\Debug\net6.0\Zadasha7.genruntimeconfig.cache
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha7\obj\Debug\net6.0\ref\Zadasha7.dll
