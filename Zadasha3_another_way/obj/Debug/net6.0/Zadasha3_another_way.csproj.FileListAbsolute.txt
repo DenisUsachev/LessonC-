@@ -1,0 +1,15 @@
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\obj\Debug\net6.0\Zadasha3_another_way.csproj.AssemblyReference.cache
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\obj\Debug\net6.0\Zadasha3_another_way.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\obj\Debug\net6.0\Zadasha3_another_way.AssemblyInfoInputs.cache
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\obj\Debug\net6.0\Zadasha3_another_way.AssemblyInfo.cs
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\obj\Debug\net6.0\Zadasha3_another_way.csproj.CoreCompileInputs.cache
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\bin\Debug\net6.0\Zadasha3_another_way.exe
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\bin\Debug\net6.0\Zadasha3_another_way.deps.json
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\bin\Debug\net6.0\Zadasha3_another_way.runtimeconfig.json
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\bin\Debug\net6.0\Zadasha3_another_way.dll
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\bin\Debug\net6.0\Zadasha3_another_way.pdb
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\obj\Debug\net6.0\Zadasha3_another_way.dll
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\obj\Debug\net6.0\refint\Zadasha3_another_way.dll
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\obj\Debug\net6.0\Zadasha3_another_way.pdb
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\obj\Debug\net6.0\Zadasha3_another_way.genruntimeconfig.cache
+C:\Users\DaNNeZ\Desktop\Lesson1\Zadasha3_another_way\obj\Debug\net6.0\ref\Zadasha3_another_way.dll
